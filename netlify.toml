@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/Whitepaper.pdf"
+to = "/Whitepaper.pdf"
+status = 200
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
